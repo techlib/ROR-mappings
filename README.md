@@ -2,7 +2,7 @@
 
 ## Popis sloupců
 
-Soubor `data/mapping-2026-09-30.csv` obsahuje následující sloupce (každý řádek představuje právě jednu organizaci):
+Soubor `data/mapping-2026-09-30.csv` obsahuje pouze přírůstkovou dávku ke dni 30. 9. 2026 a skládá se z následujících sloupců (každý řádek představuje právě jednu organizaci):
 
 | Název sloupce | Popis                                                                                                                                                                                     |
 |:--------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
